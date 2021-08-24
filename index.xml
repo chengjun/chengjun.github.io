@@ -116,7 +116,12 @@ The template is mobile first with a responsive design to ensure that your site l
 &lt;div class="w-100" >&lt;img src="https://example.com/img/headers/ccbooklogo2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;p>My ebook &lt;strong>Elements of Computational Communication (In Chinese 《计算传播基础讲义》）&lt;/strong> is now available online, enjoy! &lt;a href="https://chengjunwang.com/mybook" target="_blank" rel="noopener">https://chengjunwang.com/mybook&lt;/a>. It is based on two related master courses:&lt;/p>
+&lt;p>My ebook &lt;strong>Elements of Computational Communication (In Chinese 《计算传播基础讲义》）&lt;/strong> is now available online, enjoy!&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://chengjun.github.io/mybook" target="_blank" rel="noopener">https://chengjun.github.io/mybook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://chengjunwang.gitee.io/mybook/" target="_blank" rel="noopener">https://chengjunwang.gitee.io/mybook/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>It is based on two related master courses:&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/computational-class/bigdata" target="_blank" rel="noopener">https://github.com/computational-class/bigdata&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/computational-class/cjc" target="_blank" rel="noopener">https://github.com/computational-class/cjc&lt;/a>&lt;/li>
