@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Socrates Lab</title><link>https://example.com/socrateslab/</link><pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/socrateslab/</guid><description>&lt;p>&lt;img src="https://example.com/img/tt.gif" width = "800" align="middle" />&lt;/p>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Socrates Lab</title><link>https://example.com/socrateslab/</link><pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate><guid>https://example.com/socrateslab/</guid><description>&lt;img src="https://example.com/img/tt.gif" width = "800" align="middle" />
 &lt;p>Welcome to the &lt;strong>Socrates Lab&lt;/strong>! We are a small research team directed by Dr. Cheng-Jun Wang. We are affiliated with the &lt;a href="https://computational-communication.com/" target="_blank" rel="noopener">Computational Communication Collaboratory&lt;/a>, &lt;a href="https://jc.nju.edu.cn/" target="_blank" rel="noopener">School of Journalism and Communication&lt;/a>, Nanjing University.&lt;/p>
 &lt;h2 id="directer">Directer&lt;/h2>
 &lt;p>Cheng-Jun Wang &lt;a href="https://chengjun.github.io/" target="_blank" rel="noopener">https://chengjun.github.io/&lt;/a>&lt;/p>
@@ -109,7 +109,7 @@ The template is mobile first with a responsive design to ensure that your site l
 &lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
 &lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>The Cinderella complex: Word embeddings reveal gender stereotypes in movies and books</title><link>https://example.com/publication/storytelling/</link><pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate><guid>https://example.com/publication/storytelling/</guid><description>&lt;h3 id="citation">Citation&lt;/h3>
 &lt;blockquote>
-&lt;p>Xu H, Zhang Z, Wu L*, *Wang C.J.* * (2019) The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PLoS ONE 14(11): e0225385. &lt;a href="https://doi.org/10.1371/journal.pone.0225385" target="_blank" rel="noopener">doi:10.1371/journal.pone.0225385&lt;/a>&lt;/p>
+&lt;p>Xu H, Zhang Z, Wu L*, &lt;em>Wang C.J.&lt;/em> * (2019) The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PLoS ONE 14(11): e0225385. &lt;a href="https://doi.org/10.1371/journal.pone.0225385" target="_blank" rel="noopener">doi:10.1371/journal.pone.0225385&lt;/a>&lt;/p>
 &lt;/blockquote>
 &lt;p>You can also find the manuscript of arXiv from this link &lt;a href="https://arxiv.org/pdf/1811.04599.pdf" target="_blank" rel="noopener">https://arxiv.org/pdf/1811.04599.pdf&lt;/a>.&lt;/p>
 &lt;h3 id="data-availability">Data Availability&lt;/h3>
@@ -228,15 +228,15 @@ $$&lt;/p>
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code>&lt;/pre>
 &lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
-&lt;p>&lt;span class="fragment " >
+&lt;span class="fragment " >
 One
 &lt;/span>
 &lt;span class="fragment " >
-&lt;strong>Two&lt;/strong>
+**Two**
 &lt;/span>
 &lt;span class="fragment " >
 Three
-&lt;/span>&lt;/p>
+&lt;/span>
 &lt;hr>
 &lt;p>A fragment can accept two optional parameters:&lt;/p>
 &lt;ul>
@@ -538,12 +538,23 @@ With only a few lines of code, load your datasets, visualize the data, perform a
 &lt;li>Wang, C.J.(2012) Jumping over Network Threshold: News Diffusion on News Sharing Website. The seminar of IR and Friends. Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia National University, Canberra. May 14.&lt;/li>
 &lt;/ol>
 &lt;h1 id="book-review-translation-and-chapters">Book Review, Translation, and Chapters&lt;/h1>
+&lt;h2 id="book-chapter">Book Chapter&lt;/h2>
 &lt;ol>
-&lt;li>张伦、王成军、许小可（2018）《计算传播学导论》. 北京：北京师范大学出版社.&lt;/li>
-&lt;li>王成军、吴令飞 (2017) 空间约束的人类行为. 胡泳、王俊秀（编）《连接之后: 公共空间重建与权力再分配》.北京:人民邮电出版社. pp. 262-271.&lt;/li>
-&lt;li>许小可、胡海波、张伦、王成军 （2015）《社交网络上的计算传播学》. 北京：高等教育出版社.&lt;/li>
+&lt;li>王成军 (2021) 第十二章 沉默的螺旋：多主体模型.周葆华（编）《计算舆论学》.上海：XX出版社. pp. XX-XX.&lt;/li>
 &lt;li>張倫、彭泰權、&lt;strong>王成軍&lt;/strong>、梁海、祝建華 (2021) 從邊陲到主流的自然路徑：華人計算傳播學者的參與和體驗. 《中華傳播研究的傳承與創新》.李立峯、黃煜(主編).香港：香港中文大学出版社.pp. 399-419.&lt;/li>
+&lt;li>王成军、吴令飞 (2017) 空间约束的人类行为. 胡泳、王俊秀（编）《连接之后: 公共空间重建与权力再分配》.北京:人民邮电出版社. pp. 262-271.&lt;/li>
+&lt;/ol>
+&lt;h2 id="books">Books&lt;/h2>
+&lt;ol start="4">
+&lt;li>张伦、王成军、许小可（2018）《计算传播学导论》. 北京：北京师范大学出版社.&lt;/li>
+&lt;li>许小可、胡海波、张伦、王成军 （2015）《社交网络上的计算传播学》. 北京：高等教育出版社.&lt;/li>
+&lt;/ol>
+&lt;h2 id="translation">Translation&lt;/h2>
+&lt;ol start="6">
 &lt;li>王薇、王成军、王颖、刘璟 （翻译）(2013). 《社会网络分析：方法与实践》. 北京：机械工业出版社. [Translation of the book Social Network Analysis for Startups: Finding connections on the Social Web., by Maksim Tsvetovat &amp;amp; Alexander Kouznetsov. (2011). O’Reilly Media]&lt;/li>
+&lt;/ol>
+&lt;h2 id="book-review">Book Review&lt;/h2>
+&lt;ol start="7">
 &lt;li>王成军 (2012, Aug 17). 爆发：人类行为在时间尺度上的特征. 中国科学报, 06. [Review of the book Bursts: The Hidden Pattern Behind Everything We Do., by Albert-Laszlo Barabasi].&lt;/li>
 &lt;li>王成军 (2012, Jul 03). 人类 90%的行为是可以预测的. 中国图书商报, 1857.[Review of the book Bursts: The Hidden Pattern Behind Everything We Do., by Albert-Laszlo Barabasi].&lt;/li>
 &lt;/ol>
