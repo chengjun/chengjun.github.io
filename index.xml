@@ -26,10 +26,10 @@
 &lt;/ul>
 &lt;h2 id="graduates">Graduates&lt;/h2>
 &lt;ul>
-&lt;li>Zhicong Chen &lt;a href="https://zhicongchen.github.io/" target="_blank" rel="noopener">https://zhicongchen.github.io/&lt;/a>&lt;/li>
-&lt;li>Huimin Xu &lt;a href="http://xuhuimin2017.github.io/" target="_blank" rel="noopener">http://xuhuimin2017.github.io/&lt;/a>&lt;/li>
-&lt;li>Tiewei Li &lt;a href="https://tieweill.github.io/" target="_blank" rel="noopener">https://tieweill.github.io/&lt;/a>&lt;/li>
-&lt;li>Youqing Wu &lt;a href="https://iamyourking007.github.io/" target="_blank" rel="noopener">https://iamyourking007.github.io/&lt;/a>&lt;/li>
+&lt;li>Zhicong Chen (2017) &lt;a href="https://zhicongchen.github.io/" target="_blank" rel="noopener">https://zhicongchen.github.io/&lt;/a>&lt;/li>
+&lt;li>Huimin Xu （2018） &lt;a href="http://xuhuimin2017.github.io/" target="_blank" rel="noopener">http://xuhuimin2017.github.io/&lt;/a>&lt;/li>
+&lt;li>Tiewei Li （2017）https://tieweill.github.io/&lt;/li>
+&lt;li>Youqing Wu （2018）https://iamyourking007.github.io/&lt;/li>
 &lt;/ul>
 &lt;h2 id="github">Github&lt;/h2>
 &lt;p>&lt;a href="https://github.com/socrateslab/" target="_blank" rel="noopener">https://github.com/socrateslab/&lt;/a>&lt;/p>
@@ -554,16 +554,17 @@ With only a few lines of code, load your datasets, visualize the data, perform a
 &lt;li>王成军、吴令飞 (2017) 空间约束的人类行为. 胡泳、王俊秀（编）《连接之后: 公共空间重建与权力再分配》.北京:人民邮电出版社. pp. 262-271.&lt;/li>
 &lt;/ol>
 &lt;h2 id="books">Books&lt;/h2>
-&lt;ol start="4">
+&lt;ol>
+&lt;li>王成军(2019) &lt;a href="https://chengjun.github.io/mybook/" target="_blank" rel="noopener">计算传播学在线讲义&lt;/a>. Jupyter Book.&lt;/li>
 &lt;li>张伦、王成军、许小可（2018）《计算传播学导论》. 北京：北京师范大学出版社.&lt;/li>
 &lt;li>许小可、胡海波、张伦、王成军 （2015）《社交网络上的计算传播学》. 北京：高等教育出版社.&lt;/li>
 &lt;/ol>
 &lt;h2 id="translation">Translation&lt;/h2>
-&lt;ol start="6">
+&lt;ol>
 &lt;li>王薇、王成军、王颖、刘璟 （翻译）(2013). 《社会网络分析：方法与实践》. 北京：机械工业出版社. [Translation of the book Social Network Analysis for Startups: Finding connections on the Social Web., by Maksim Tsvetovat &amp;amp; Alexander Kouznetsov. (2011). O’Reilly Media]&lt;/li>
 &lt;/ol>
 &lt;h2 id="book-review">Book Review&lt;/h2>
-&lt;ol start="7">
+&lt;ol>
 &lt;li>王成军 (2012, Aug 17). 爆发：人类行为在时间尺度上的特征. 中国科学报, 06. [Review of the book Bursts: The Hidden Pattern Behind Everything We Do., by Albert-Laszlo Barabasi].&lt;/li>
 &lt;li>王成军 (2012, Jul 03). 人类 90%的行为是可以预测的. 中国图书商报, 1857.[Review of the book Bursts: The Hidden Pattern Behind Everything We Do., by Albert-Laszlo Barabasi].&lt;/li>
 &lt;/ol>
@@ -573,13 +574,6 @@ With only a few lines of code, load your datasets, visualize the data, perform a
 &lt;li>Introduction to Python Programming for Data Science (数据科学Python编程基础). Semester A, Nanjing University&lt;/li>
 &lt;li>Data Journalism (数据新闻). Semester B, Nanjing University&lt;/li>
 &lt;li>Big Data Mining and Analysis (大数据挖掘与分析). 2015-Now, Nanjing University&lt;/li>
-&lt;/ol>
-&lt;p>I worked as a TA for the following courses:&lt;/p>
-&lt;ol>
-&lt;li>COM5106 Integrated Marketing Communication. Semester B 2012-2013, City University of Hong Kong&lt;/li>
-&lt;li>COM3106 Media and Society. Semester A 2012-2013, City University of Hong Kong&lt;/li>
-&lt;li>COM2401 Fundamentals of Advertising. Semester A 2011-2012, City University of Hong Kong&lt;/li>
-&lt;li>COM3413 Writing for Public Relations. Semester B 2010-2011, City University of Hong Kong&lt;/li>
 &lt;/ol>
 &lt;h1 id="professional-affiliations">Professional affiliations&lt;/h1>
 &lt;p>I served as a reviewer for&lt;/p>
@@ -598,6 +592,7 @@ With only a few lines of code, load your datasets, visualize the data, perform a
 &lt;li>International Communication Association (ICA)&lt;/li>
 &lt;li>World Association of Public Opinion Research (WAPOR)&lt;/li>
 &lt;li>International Telecommunications Society (ITS)&lt;/li>
+&lt;li>中国新闻史学会计算传播学专业委员会（CCRA）&lt;/li>
 &lt;/ol>
 &lt;h1 id="awardshonors">Awards/Honors&lt;/h1>
 &lt;ol>
@@ -617,12 +612,6 @@ With only a few lines of code, load your datasets, visualize the data, perform a
 &lt;li>&lt;a href="https://pypi.python.org/pypi/flownetwork" target="_blank" rel="noopener">flownetwork&lt;/a>, a Python package for flow network analysis.&lt;/li>
 &lt;li>&lt;a href="https://pypi.python.org/pypi/iching/" target="_blank" rel="noopener">iching&lt;/a>, a Python package that employs the Achillea millefolium method to practise divination of I Ching (易经的蓍草卜卦方法).&lt;/li>
 &lt;li>&lt;a href="https://github.com/chengjun/networkdiffusion" target="_blank" rel="noopener">networkdiffusion&lt;/a>, a R package which can help simulate and visualize the network diffusion.&lt;/li>
-&lt;li>&lt;a href="https://pypi.python.org/pypi/scholarNetwork/" target="_blank" rel="noopener">scholarNetwork&lt;/a>, a Python package to crawl and visualize the coauthor network of Google Scholars.&lt;/li>
-&lt;/ol>
-&lt;h1 id="visualizations">Visualizations&lt;/h1>
-&lt;ol>
-&lt;li>&lt;a href="http://chengjun.github.io/newsmap/#edu/2011" target="_blank" rel="noopener">News Map of China&lt;/a> using D3.js.&lt;/li>
-&lt;li>&lt;a href="http://chengjun.github.io/datajournalism/vis/terrorism/" target="_blank" rel="noopener">Global Terrorism&lt;/a> using googleVis.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;i class="fas fa-download pr-1 fa-fw">&lt;/i> Download the &lt;a href="https://example.com/uploads/cv.pdf" target="_blank">resumé&lt;/a>.&lt;/p>
