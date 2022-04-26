@@ -617,7 +617,7 @@ With only a few lines of code, load your datasets, visualize the data, perform a
 &lt;h1 id="book-review-translation-and-chapters">Book Review, Translation, and Chapters&lt;/h1>
 &lt;h2 id="books">Books&lt;/h2>
 &lt;ol>
-&lt;li>王成军（2022）《跨越网络的门槛：社交媒体上的信息扩散》（即将出版）. 北京：科学出版社.&lt;/li>
+&lt;li>王成军（2022）&lt;a href="https://github.com/chengjun/thresholdbook" target="_blank" rel="noopener">《跨越网络的门槛：社交媒体上的信息扩散》&lt;/a>（即将出版）. 北京：科学出版社.&lt;/li>
 &lt;li>王成军(2019) &lt;a href="https://chengjun.github.io/mybook/" target="_blank" rel="noopener">《计算传播学网络讲义》&lt;/a>. Jupyter Book.&lt;/li>
 &lt;li>张伦、王成军、许小可（2018）《计算传播学导论》. 北京：北京师范大学出版社.&lt;/li>
 &lt;li>许小可、胡海波、张伦、王成军 （2015）《社交网络上的计算传播学》. 北京：高等教育出版社.&lt;/li>
