@@ -487,7 +487,9 @@ Every human behavior, including communicative behavior, involves four basic elem
 With only a few lines of code, load your datasets, visualize the data, perform analyses, and export the results. Folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the Leaflet.js library. Manipulate your data in Python, then visualize it in on a Leaflet map via Folium.&lt;/p>
 &lt;p>Thank you for your attention. This is the end.&lt;/p></description></item><item><title>作为社会动员过程的互联网众筹公益：以腾讯乐捐为例</title><link>https://example.com/publication/crowdfunding-charity/</link><pubDate>Thu, 09 Mar 2017 10:49:09 +0800</pubDate><guid>https://example.com/publication/crowdfunding-charity/</guid><description>&lt;p>In submission.&lt;/p></description></item><item><title>Building Open Teams to Leverage the Power of Turnover</title><link>https://example.com/publication/team-turnover/</link><pubDate>Thu, 02 Mar 2017 22:20:24 +0800</pubDate><guid>https://example.com/publication/team-turnover/</guid><description>&lt;p>Keywords:team science; turnover; task allocation; uncertainty; collective wisdom&lt;/p>
 &lt;p>This is an ongoing work under preparation.&lt;/p></description></item><item><title>空间约束的人类行为</title><link>https://example.com/publication/lbs-behavior/</link><pubDate>Fri, 24 Feb 2017 15:23:43 +0800</pubDate><guid>https://example.com/publication/lbs-behavior/</guid><description>&lt;p>王成军、吴令飞(2017)空间约束的人类行为. 胡泳、王俊秀（编）《连接之后: 公共空间重建与权力再分配》.北京:人民邮电出版社. pp. 262-271&lt;/p></description></item><item><title>Cheng-Jun Wang</title><link>https://example.com/cv/</link><pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate><guid>https://example.com/cv/</guid><description>&lt;img align="middle" src="https://example.com/img/headers/hero.svg" width = 800px/>
-&lt;p>Cheng-Jun Wang is currently an associate professor in the School of Journalism and Communication, Nanjing University. He is also the director of Computational Communication Collaboratory. His research on computational communication appears in both SSCI and SCI indexed journals, such as Internet Research, Cyberpsychology, Telematics and Informatics, Scientific Reports, PloS ONE, and Physica A.&lt;/p>
+&lt;blockquote>
+&lt;p>Cheng-Jun Wang is currently an associate professor in the &lt;a href="https://jc.nju.edu.cn/" target="_blank" rel="noopener">School of Journalism and Communication&lt;/a>, Nanjing University. He is also the director of &lt;a href="https://computational-communication.com/" target="_blank" rel="noopener">Computational Communication Collaboratory&lt;/a>. He is leading the &lt;a href="https://github.com/socrateslab/" target="_blank" rel="noopener">Socrates Lab&lt;/a> which is a small team composed of doctoral, master&amp;rsquo;s and undergraduate students who are keen on the computational social sciences. His research on computational communication appears in both SSCI and SCI indexed journals, such as Internet Research, Cyberpsychology, Telematics and Informatics, Scientific Reports, PloS ONE, and Physica A.&lt;/p>
+&lt;/blockquote>
 &lt;h1 id="contact-information">Contact Information&lt;/h1>
 &lt;ul>
 &lt;li>Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.&lt;/li>
@@ -683,6 +685,9 @@ With only a few lines of code, load your datasets, visualize the data, perform a
 &lt;li>International Telecommunications Society (ITS)&lt;/li>
 &lt;li>中国新闻史学会计算传播学专业委员会（CCRA）&lt;/li>
 &lt;/ol>
+&lt;ul>
+&lt;li>I served as the Secretary General of CCRA from 2018 to 2020.&lt;/li>
+&lt;/ul>
 &lt;p>I served as a &lt;em>Programme Commitee&lt;/em> member for &lt;strong>International Conference of Computational Social Science (IC2S2)&lt;/strong>.&lt;/p>
 &lt;h1 id="awardshonors">Awards/Honors&lt;/h1>
 &lt;ol>
