@@ -357,7 +357,13 @@ The template is mobile first with a responsive design to ensure that your site l
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/computational-class/bigdata" target="_blank" rel="noopener">https://github.com/computational-class/bigdata&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/computational-class/cjc" target="_blank" rel="noopener">https://github.com/computational-class/cjc&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website</title><link>https://example.com/publication/bandwagon/</link><pubDate>Sun, 03 Mar 2019 22:20:56 +0800</pubDate><guid>https://example.com/publication/bandwagon/</guid><description>&lt;p>&lt;strong>Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website&lt;/strong>&lt;/p>
+&lt;/ul></description></item><item><title>Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website</title><link>https://example.com/publication/bandwagon/</link><pubDate>Sun, 03 Mar 2019 22:20:56 +0800</pubDate><guid>https://example.com/publication/bandwagon/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://user-images.githubusercontent.com/543384/172030732-fc85b920-30b6-4348-9173-cc12927e87ea.png" alt="image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website&lt;/strong>&lt;/p>
 &lt;p>Cheng-Jun Wang $ ^{a,b}$ * , Jonathan J.H. Zhu ${^b}$&lt;/p>
 &lt;p>$^a$ Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University, Nanjing, China&lt;/p>
 &lt;p>$^b$ Web Mining Lab, Department of Media and Communication, City University of Hong Kong, Hong Kong, China&lt;/p>
