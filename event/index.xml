@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Academic</title><link>https://example.com/event/</link><atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Jul 2022 10:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_huee78856177679f3c0297a865dd42e38b_9502_512x512_fill_lanczos_center_3.png</url><title>Recent &amp; Upcoming Talks</title><link>https://example.com/event/</link></image><item><title>I give a talk to introduce my new book!</title><link>https://example.com/talk/i-give-a-talk-to-introduce-my-new-book/</link><pubDate>Sat, 30 Jul 2022 10:00:00 +0000</pubDate><guid>https://example.com/talk/i-give-a-talk-to-introduce-my-new-book/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" alt="thresholdbook" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://user-images.githubusercontent.com/543384/182157573-d8305ef4-1e75-423a-a082-8373376f8fcc.png" alt="image" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>计算社会科学读书会第二季第五期即将开始，走过路过不要错过！&lt;/p>
@@ -12,6 +12,12 @@
 从信息扩散、注意力流动到计算叙事：反思计算社会科学的逻辑&lt;/p>
 &lt;p>主讲人：王成军
 南京大学新闻传播学院副教授、博士生导师，计算传播学实验中心主任，兼任香港城市大学互联网挖掘实验室研究员&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" alt="thresholdbook" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;h2 id="video">Video&lt;/h2>
 &lt;p>&lt;a href="https://campus.swarma.org/course/4700" target="_blank" rel="noopener">https://campus.swarma.org/course/4700&lt;/a>&lt;/p>
 &lt;h2 id="slides">Slides&lt;/h2>
