@@ -308,21 +308,126 @@
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h2 id="current-members">Current Members&lt;/h2>
-&lt;h3 id="phd-students">Ph.D Students&lt;/h3>
-&lt;ul>
-&lt;li>Xuefei Yan (2022) &lt;a href="https://xuefei-yan.github.io/" target="_blank" rel="noopener">https://xuefei-yan.github.io/&lt;/a>&lt;/li>
-&lt;li>Lihan Yan (2022) &lt;a href="https://yan-lihan.github.io/" target="_blank" rel="noopener">https://yan-lihan.github.io/&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;h3 id="faculty-members">Faculty Members&lt;/h3>
+&lt;table style="table-layout: auto; width: 150px">
+&lt;tr>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://chengjun.github.io/authors/admin/avatar_hucdc0c36df1d51621c381efb87a23e0c7_43703_270x270_fill_q75_lanczos_center.jpg" width = 100px height = 100px>&lt;br>
+&lt;a href="http://chengjunwang.com/">Cheng-Jun Wang&lt;/a>&lt;br>
+Associate Professor
+&lt;/div>
+&lt;/td>
+&lt;pre>&lt;code>&amp;lt;td style=&amp;quot;text-align: center; vertical-align: middle; padding:10px&amp;quot;&amp;gt;
+&amp;lt;div&amp;gt;
+&amp;lt;img src=&amp;quot;https://zhicongchen.github.io/images/czc.png&amp;quot; width = 100px height = 100px&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;a href=&amp;quot;https://zhicongchen.github.io/&amp;quot;&amp;gt;Zhicong Chen&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+Assistant Research Fellow
+&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/tr>
+&lt;/table>
+&lt;!--
+- [Cheng-Jun Wang](http://chengjunwang.com/), Director, Associate Professor
+- [Ke-Ke Shang](https://kekeshang.github.io/), Associate Professor
+- [Zhihao Ma](https://scholar.google.com/citations?user=qscxWlUAAAAJ&amp;hl=en), Assistant Research Fellow
+- [Yi-Xin Zhou](https://zhouyixin.xyz/), Assistant Research Fellow
+- [Zhicong Chen](https://zhicongchen.github.io/), Assistant Research Fellow
+-->
+&lt;h3 id="phd-students">Ph.D. Students&lt;/h3>
+&lt;table style="table-layout: auto; width: 150px">
+&lt;tr>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://user-images.githubusercontent.com/13479560/199401758-496be7c9-2afd-4fd2-8b83-c1ac64da1895.jpg" width = 100px height = 100px>&lt;br>
+&lt;a href="https://xuefei-yan.github.io/">Xuefei Yan&lt;/a>&lt;br>
+(2022 - )
+&lt;/div>
+&lt;/td>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://user-images.githubusercontent.com/13479560/199376455-10d0082f-fec2-44a0-853f-20d637194473.jpg" width = 100px height = 100px>&lt;br>
+&lt;a href="https://yan-lihan.github.io/">Lihan Yan&lt;/a>&lt;br>
+(2022 - )
+&lt;/div>
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;!--
+| [Xuefei Yan](https://xuefei-yan.github.io/) (2022-) | [Lihan Yan](https://yan-lihan.github.io/) (2022-) |
+|-----|-----|
+| ![1f3fb33dba719da5ed954031d626152](https://user-images.githubusercontent.com/13479560/199376777-c6bcbbcf-fd3e-43ba-b22c-c086a3b0ebf9.jpg) | ![af0db54a7e67e25f3c10b510b8ce624](https://user-images.githubusercontent.com/13479560/199376455-10d0082f-fec2-44a0-853f-20d637194473.jpg) |
+-->
 &lt;h3 id="master-students">Master Students&lt;/h3>
-&lt;ul>
-&lt;li>Yaotian Zhang (2020) &lt;a href="https://yaotianzhang.github.io/" target="_blank" rel="noopener">https://yaotianzhang.github.io/&lt;/a>&lt;/li>
-&lt;li>Zepeng Gou (2020) &lt;a href="https://pennygou.github.io/" target="_blank" rel="noopener">https://pennygou.github.io/&lt;/a>&lt;/li>
-&lt;li>Yuduan Li (2020) &lt;a href="https://liyuduan817.github.io/" target="_blank" rel="noopener">https://liyuduan817.github.io/&lt;/a>&lt;/li>
-&lt;li>Yu Zhou (2020) &lt;a href="https://18005176298.github.io/" target="_blank" rel="noopener">https://18005176298.github.io/&lt;/a>&lt;/li>
-&lt;li>Xinya Jiang (2021) &lt;a href="https://alexandrajiang.github.io/" target="_blank" rel="noopener">https://alexandrajiang.github.io/&lt;/a>&lt;/li>
-&lt;li>Yixiao Sun (2022) &lt;a href="https://sun-yixiao.github.io/" target="_blank" rel="noopener">https://sun-yixiao.github.io/&lt;/a>&lt;/li>
-&lt;li>Yunjie Fei (2022) &lt;a href="https://yunjiefei.github.io" target="_blank" rel="noopener">https://yunjiefei.github.io&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;table style="table-layout: auto; width: 150px">
+&lt;tr>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://user-images.githubusercontent.com/13479560/199432377-9a4467cb-7ff2-4113-b652-bd7cd8a445d0.jpg" width = 100px height = 100px>&lt;br>
+&lt;a href="https://sun-yixiao.github.io/">Yixiao Sun&lt;/a>&lt;br>
+(2022 - )
+&lt;/div>
+&lt;/td>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://user-images.githubusercontent.com/13479560/199432347-13e36927-8433-4a18-98b3-09d38d4d81a1.jpg" width = 100px height = 100px>&lt;br>
+&lt;a href="https://yunjiefei.github.io">Yunjie Fei&lt;/a>&lt;br>
+(2022 - )
+&lt;/div>
+&lt;/td>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://user-images.githubusercontent.com/13479560/199432362-c01bec2c-b86c-4bd0-9635-21a34e6cec0c.jpg" width = 100px height = 100px>&lt;br>
+&lt;a href="https://alexandrajiang.github.io/">Xinya Jiang&lt;/a>&lt;br>
+(2021 - )
+&lt;/div>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://user-images.githubusercontent.com/13479560/199375692-6f002149-9cf5-46b0-b266-340f6adeb5c9.jpg" width = 100px height = 100px>&lt;br>
+&lt;a href="https://yaotianzhang.github.io/">Yaotian Zhang&lt;/a>&lt;br>
+(2020 - )
+&lt;/div>
+&lt;/td>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://user-images.githubusercontent.com/13479560/199377889-f621221c-dbeb-408e-b145-ef58efa72d7f.png" width = 100px height = 100px>&lt;br>
+&lt;a href="https://liyuduan817.github.io/">Yuduan Li&lt;/a>&lt;br>
+(2020 - )
+&lt;/div>
+&lt;/td>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://user-images.githubusercontent.com/13479560/199470472-63395efc-23d3-4a8d-ad1b-57301201145b.jpg" width = 100px height = 100px>&lt;br>
+&lt;a href="https://18005176298.github.io/">Yu Zhou&lt;/a>&lt;br>
+(2020 - )
+&lt;/div>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://pennygou.github.io/assets/images/img-6355-2000x1333.jpeg" width = 100px height = 100px>&lt;br>
+&lt;a href="https://pennygou.github.io/">Zepeng Gou&lt;/a>&lt;br>
+(2020 - )
+&lt;/div>
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;!--
+| [Yixiao Sun](https://sun-yixiao.github.io/) (2022-) | [Yunjie Fei](https://yunjiefei.github.io) (2022-) |
+|-----|-----|
+| https://sun-yixiao.github.io/ | https://yunjiefei.github.io |
+| [Xinya Jiang](https://alexandrajiang.github.io/) (2021-) |
+|-----|
+| https://alexandrajiang.github.io/ |
+| [Yaotian Zhang](https://yaotianzhang.github.io/) (2020-) | [Yuduan Li](https://liyuduan817.github.io/) (2020-) | [Yu Zhou](https://18005176298.github.io/) (2020-) | [Zepeng Gou](https://pennygou.github.io/) (2020-) |
+|-----|-----|-----|-----|
+| ![5688cace5bf58fc057dbfc7dad9422c](https://user-images.githubusercontent.com/13479560/199375692-6f002149-9cf5-46b0-b266-340f6adeb5c9.jpg) | ![593eebbdc227b1ebd3d5fb4981dd081](https://user-images.githubusercontent.com/13479560/199377889-f621221c-dbeb-408e-b145-ef58efa72d7f.png) | https://18005176298.github.io/ | https://pennygou.github.io/ |
+-->
 &lt;h2 id="graduates">Graduates&lt;/h2>
 &lt;h3 id="master">Master&lt;/h3>
 &lt;ul>
