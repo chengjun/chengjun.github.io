@@ -6,7 +6,7 @@
 <meta name=generator content="Wowchemy 5.3.0 for Hugo">
 <meta name=author content="Cheng-Jun Wang">
 <meta name=description content="随着今日头条的崛起,聚合媒体开始进入公众的视野。这类媒体都是基于数据挖掘技术,筛选和推荐新闻。它为用户推荐有价值的、个性化的信息,提供连接人与信息的新型服务,是国内移动互联网领域成长最快的产品服务之一。自从2012年3月创建以来,今日头条至今已经累计激活用户3.1亿,日活跃用户超过3000万。本文尝试从技术层面分析今日头条的传播机制和相关原理。">
-<link rel=alternate hreflang=en-us href=https://example.com/publication/toutiao-logic/>
+<link rel=alternate hreflang=en-us href=https://chengjun.github.io/publication/toutiao-logic/>
 <link rel=preconnect href=https://fonts.gstatic.com crossorigin>
 <meta name=theme-color content="#1565c0">
 <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin=anonymous media=print onload="this.media='all'">
@@ -19,16 +19,16 @@
 <link rel=manifest href=/manifest.webmanifest>
 <link rel=icon type=image/png href=/media/icon_huee78856177679f3c0297a865dd42e38b_9502_32x32_fill_lanczos_center_3.png>
 <link rel=apple-touch-icon type=image/png href=/media/icon_huee78856177679f3c0297a865dd42e38b_9502_180x180_fill_lanczos_center_3.png>
-<link rel=canonical href=https://example.com/publication/toutiao-logic/>
+<link rel=canonical href=https://chengjun.github.io/publication/toutiao-logic/>
 <meta property="twitter:card" content="summary">
 <meta property="og:site_name" content="Cheng-Jun Wang">
-<meta property="og:url" content="https://example.com/publication/toutiao-logic/">
+<meta property="og:url" content="https://chengjun.github.io/publication/toutiao-logic/">
 <meta property="og:title" content="“今日头条”的技术逻辑：网络爬虫+矩阵筛选 | Cheng-Jun Wang">
-<meta property="og:description" content="随着今日头条的崛起,聚合媒体开始进入公众的视野。这类媒体都是基于数据挖掘技术,筛选和推荐新闻。它为用户推荐有价值的、个性化的信息,提供连接人与信息的新型服务,是国内移动互联网领域成长最快的产品服务之一。自从2012年3月创建以来,今日头条至今已经累计激活用户3.1亿,日活跃用户超过3000万。本文尝试从技术层面分析今日头条的传播机制和相关原理。"><meta property="og:image" content="https://example.com/media/icon_huee78856177679f3c0297a865dd42e38b_9502_512x512_fill_lanczos_center_3.png">
-<meta property="twitter:image" content="https://example.com/media/icon_huee78856177679f3c0297a865dd42e38b_9502_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+<meta property="og:description" content="随着今日头条的崛起,聚合媒体开始进入公众的视野。这类媒体都是基于数据挖掘技术,筛选和推荐新闻。它为用户推荐有价值的、个性化的信息,提供连接人与信息的新型服务,是国内移动互联网领域成长最快的产品服务之一。自从2012年3月创建以来,今日头条至今已经累计激活用户3.1亿,日活跃用户超过3000万。本文尝试从技术层面分析今日头条的传播机制和相关原理。"><meta property="og:image" content="https://chengjun.github.io/media/icon_huee78856177679f3c0297a865dd42e38b_9502_512x512_fill_lanczos_center_3.png">
+<meta property="twitter:image" content="https://chengjun.github.io/media/icon_huee78856177679f3c0297a865dd42e38b_9502_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
 <meta property="article:published_time" content="2015-10-05T12:15:21+08:00">
 <meta property="article:modified_time" content="2015-10-05T12:15:21+08:00">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/publication/toutiao-logic/"},"headline":"“今日头条”的技术逻辑：网络爬虫+矩阵筛选","datePublished":"2015-10-05T12:15:21+08:00","dateModified":"2015-10-05T12:15:21+08:00","author":{"@type":"Person","name":"王成军"},"publisher":{"@type":"Organization","name":"Cheng-Jun Wang","logo":{"@type":"ImageObject","url":"https://example.com/media/icon_huee78856177679f3c0297a865dd42e38b_9502_192x192_fill_lanczos_center_3.png"}},"description":"随着今日头条的崛起,聚合媒体开始进入公众的视野。这类媒体都是基于数据挖掘技术,筛选和推荐新闻。它为用户推荐有价值的、个性化的信息,提供连接人与信息的新型服务,是国内移动互联网领域成长最快的产品服务之一。自从2012年3月创建以来,今日头条至今已经累计激活用户3.1亿,日活跃用户超过3000万。本文尝试从技术层面分析今日头条的传播机制和相关原理。"}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://chengjun.github.io/publication/toutiao-logic/"},"headline":"“今日头条”的技术逻辑：网络爬虫+矩阵筛选","datePublished":"2015-10-05T12:15:21+08:00","dateModified":"2015-10-05T12:15:21+08:00","author":{"@type":"Person","name":"王成军"},"publisher":{"@type":"Organization","name":"Cheng-Jun Wang","logo":{"@type":"ImageObject","url":"https://chengjun.github.io/media/icon_huee78856177679f3c0297a865dd42e38b_9502_192x192_fill_lanczos_center_3.png"}},"description":"随着今日头条的崛起,聚合媒体开始进入公众的视野。这类媒体都是基于数据挖掘技术,筛选和推荐新闻。它为用户推荐有价值的、个性化的信息,提供连接人与信息的新型服务,是国内移动互联网领域成长最快的产品服务之一。自从2012年3月创建以来,今日头条至今已经累计激活用户3.1亿,日活跃用户超过3000万。本文尝试从技术层面分析今日头条的传播机制和相关原理。"}</script>
 <title>“今日头条”的技术逻辑：网络爬虫+矩阵筛选 | Cheng-Jun Wang</title>
 </head>
 <body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=2ff880a688434dc52cadee9a9f3ca4e4>
@@ -93,7 +93,7 @@
 <a class=nav-link href=/#contact><span>Contact</span></a>
 </li>
 <li class=nav-item>
-<a class=nav-link href=https://chengjun.github.io/zh/ target=_blank rel=noopener><span>中文</span></a>
+<a class=nav-link href=/zh/ target=_blank rel=noopener><span>中文</span></a>
 </li>
 </ul>
 </div>
@@ -179,32 +179,32 @@ Report
 <div class=share-box aria-hidden=true>
 <ul class=share>
 <li>
-<a href="https://twitter.com/intent/tweet?url=https://example.com/publication/toutiao-logic/&text=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89" target=_blank rel=noopener class=share-btn-twitter>
+<a href="https://twitter.com/intent/tweet?url=https://chengjun.github.io/publication/toutiao-logic/&text=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89" target=_blank rel=noopener class=share-btn-twitter>
 <i class="fab fa-twitter"></i>
 </a>
 </li>
 <li>
-<a href="https://www.facebook.com/sharer.php?u=https://example.com/publication/toutiao-logic/&t=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89" target=_blank rel=noopener class=share-btn-facebook>
+<a href="https://www.facebook.com/sharer.php?u=https://chengjun.github.io/publication/toutiao-logic/&t=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89" target=_blank rel=noopener class=share-btn-facebook>
 <i class="fab fa-facebook"></i>
 </a>
 </li>
 <li>
-<a href="mailto:?subject=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89&body=https://example.com/publication/toutiao-logic/" target=_blank rel=noopener class=share-btn-email>
+<a href="mailto:?subject=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89&body=https://chengjun.github.io/publication/toutiao-logic/" target=_blank rel=noopener class=share-btn-email>
 <i class="fas fa-envelope"></i>
 </a>
 </li>
 <li>
-<a href="https://www.linkedin.com/shareArticle?url=https://example.com/publication/toutiao-logic/&title=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89" target=_blank rel=noopener class=share-btn-linkedin>
+<a href="https://www.linkedin.com/shareArticle?url=https://chengjun.github.io/publication/toutiao-logic/&title=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89" target=_blank rel=noopener class=share-btn-linkedin>
 <i class="fab fa-linkedin-in"></i>
 </a>
 </li>
 <li>
-<a href="whatsapp://send?text=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89%20https://example.com/publication/toutiao-logic/" target=_blank rel=noopener class=share-btn-whatsapp>
+<a href="whatsapp://send?text=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89%20https://chengjun.github.io/publication/toutiao-logic/" target=_blank rel=noopener class=share-btn-whatsapp>
 <i class="fab fa-whatsapp"></i>
 </a>
 </li>
 <li>
-<a href="https://service.weibo.com/share/share.php?url=https://example.com/publication/toutiao-logic/&title=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89" target=_blank rel=noopener class=share-btn-weibo>
+<a href="https://service.weibo.com/share/share.php?url=https://chengjun.github.io/publication/toutiao-logic/&title=%e2%80%9c%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e2%80%9d%e7%9a%84%e6%8a%80%e6%9c%af%e9%80%bb%e8%be%91%ef%bc%9a%e7%bd%91%e7%bb%9c%e7%88%ac%e8%99%ab+%e7%9f%a9%e9%98%b5%e7%ad%9b%e9%80%89" target=_blank rel=noopener class=share-btn-weibo>
 <i class="fab fa-weibo"></i>
 </a>
 </li>
