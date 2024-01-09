@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cheng-Jun Wang</title><link>https://chengjun.github.io/</link><atom:link href="https://chengjun.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Cheng-Jun Wang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Cheng-Jun Wang 2023 Know Yourself</copyright><lastBuildDate>Fri, 10 Mar 2023 19:30:00 +0000</lastBuildDate><image><url>https://chengjun.github.io/media/icon_huee78856177679f3c0297a865dd42e38b_9502_512x512_fill_lanczos_center_3.png</url><title>Cheng-Jun Wang</title><link>https://chengjun.github.io/</link></image><item><title>I give a talk on computational narrative</title><link>https://chengjun.github.io/talk/i-give-a-talk-on-computational-narrative/</link><pubDate>Fri, 10 Mar 2023 19:30:00 +0000</pubDate><guid>https://chengjun.github.io/talk/i-give-a-talk-on-computational-narrative/</guid><description>&lt;p>It is my great pleasure to be invited by Professor Hongbang Zhang and give a talk on computational narrative.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cheng-Jun Wang</title><link>https://chengjun.github.io/</link><atom:link href="https://chengjun.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Cheng-Jun Wang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Cheng-Jun Wang 2024 Know Yourself</copyright><lastBuildDate>Fri, 10 Mar 2023 19:30:00 +0000</lastBuildDate><image><url>https://chengjun.github.io/media/icon_huee78856177679f3c0297a865dd42e38b_9502_512x512_fill_lanczos_center_3.png</url><title>Cheng-Jun Wang</title><link>https://chengjun.github.io/</link></image><item><title>I give a talk on computational narrative</title><link>https://chengjun.github.io/talk/i-give-a-talk-on-computational-narrative/</link><pubDate>Fri, 10 Mar 2023 19:30:00 +0000</pubDate><guid>https://chengjun.github.io/talk/i-give-a-talk-on-computational-narrative/</guid><description>&lt;p>It is my great pleasure to be invited by Professor Hongbang Zhang and give a talk on computational narrative.&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -368,6 +368,22 @@ Assistant Research Fellow
 &lt;/div>
 &lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://user-images.githubusercontent.com/13479560/199432362-c01bec2c-b86c-4bd0-9635-21a34e6cec0c.jpg" width = 200px height = 200px>&lt;br>
+&lt;a href="https://yangdong-liu.github.io/">Yangdong Liu&lt;/a>&lt;br>
+(2023 - )
+&lt;/div>
+&lt;/td>
+&lt;td style="text-align: center; vertical-align: middle; padding:10px">
+&lt;div>
+&lt;img src="https://user-images.githubusercontent.com/13479560/199375692-6f002149-9cf5-46b0-b266-340f6adeb5c9.jpg" width = 200px height = 200px>&lt;br>
+&lt;a href="https://yaotianzhang.github.io/">Yaotian Zhang&lt;/a>&lt;br>
+(2023 - )
+&lt;/div>
+&lt;/td>
+&lt;/tr>
 &lt;/table>
 &lt;!--
 | [Xuefei Yan](https://xuefei-yan.github.io/) (2022-) | [Lihan Yan](https://yan-lihan.github.io/) (2022-) |
@@ -411,22 +427,6 @@ Assistant Research Fellow
 &lt;tr>
 &lt;td style="text-align: center; vertical-align: middle; padding:10px">
 &lt;div>
-&lt;img src="https://user-images.githubusercontent.com/13479560/199377889-f621221c-dbeb-408e-b145-ef58efa72d7f.png" width = 200px height = 200px>&lt;br>
-&lt;a href="https://liyuduan817.github.io/">Yuduan Li&lt;/a>&lt;br>
-(2020 - )
-&lt;/div>
-&lt;/td>
-&lt;td style="text-align: center; vertical-align: middle; padding:10px">
-&lt;div>
-&lt;img src="https://user-images.githubusercontent.com/13479560/199470472-63395efc-23d3-4a8d-ad1b-57301201145b.jpg" width = 200px height = 200px>&lt;br>
-&lt;a href="https://18005176298.github.io/">Yu Zhou&lt;/a>&lt;br>
-(2020 - )
-&lt;/div>
-&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: center; vertical-align: middle; padding:10px">
-&lt;div>
 &lt;img src="https://pennygou.github.io/assets/images/img-6355-2000x1333.jpeg" width = 200px height = 200px>&lt;br>
 &lt;a href="https://pennygou.github.io/">Zepeng Gou&lt;/a>&lt;br>
 (2020 - )
@@ -455,6 +455,8 @@ Assistant Research Fellow
 &lt;li>Gongjing Lu (2019) &lt;a href="https://lugongjing.github.io/bbiou218/" target="_blank" rel="noopener">https://lugongjing.github.io/bbiou218/&lt;/a>&lt;/li>
 &lt;li>Linyan Lu (2019) &lt;a href="https://linyanlu.github.io/" target="_blank" rel="noopener">https://linyanlu.github.io/&lt;/a>&lt;/li>
 &lt;li>Yuanyuan Li (2019) &lt;a href="https://andrea-lee.github.io/" target="_blank" rel="noopener">https://andrea-lee.github.io/&lt;/a>&lt;/li>
+&lt;li>Yuduan Li (2020) &lt;a href="https://liyuduan817.github.io/" target="_blank" rel="noopener">https://liyuduan817.github.io/&lt;/a>&lt;/li>
+&lt;li>Yu Zhou (2020) &lt;a href="https://18005176298.github.io/" target="_blank" rel="noopener">https://18005176298.github.io/&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h1 id="activities">Activities&lt;/h1>
 &lt;h2 id="tycho-club">Tycho Club&lt;/h2>
