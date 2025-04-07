@@ -337,7 +337,7 @@ Professor
 &lt;/tr>
 &lt;/table>
 &lt;h3 id="phd-students">Ph.D. Students&lt;/h3>
-&lt;table style="table-layout: auto; width: 800px">
+&lt;table style="table-layout: auto; width: 600px">
 &lt;tr>
 &lt;td style="text-align: center; vertical-align: middle; padding:10px">
 &lt;div>
@@ -360,6 +360,10 @@ Professor
 (2023 - )
 &lt;/div>
 &lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;table style="table-layout: auto; width: 600px">
+&lt;tr>
 &lt;td style="text-align: center; vertical-align: middle; padding:10px">
 &lt;div>
 &lt;img src="https://chengjun.github.io/zh/images/member/yaotianzhang.jpg" width = 200px height = 200px>&lt;br>
@@ -367,10 +371,6 @@ Professor
 (2023 - )
 &lt;/div>
 &lt;/td>
-&lt;/tr>
-&lt;/table>
-&lt;table style="table-layout: auto; width: 800px">
-&lt;tr>
 &lt;td style="text-align: center; vertical-align: middle; padding:10px">
 &lt;div>
 &lt;img src="https://chengjun.github.io/zh/images/member/lihanyan.jpg" width = 200px height = 200px>&lt;br>
