@@ -349,27 +349,26 @@ Professor
 &lt;/div>
 &lt;/center>
 &lt;/div>
-&lt;pre>&lt;code>&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
-&amp;lt;center&amp;gt;
-&amp;lt;div class=&amp;quot;author__avatar&amp;quot;&amp;gt;
-&amp;lt;img src=&amp;quot;https://chengjun.github.io/zh/images/member/xiaoxiao.jpg&amp;quot; class=&amp;quot;author__avatar&amp;quot; alt=&amp;quot;Xiao Xiao&amp;quot;&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;author__content&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href = &amp;quot;https://Xiaoxiao-tiger.github.io/&amp;quot;&amp;gt;Xiao Xiao&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;(2024 - )&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/center&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
-&amp;lt;center&amp;gt;
-&amp;lt;div class=&amp;quot;author__avatar&amp;quot;&amp;gt;
-&amp;lt;img src=&amp;quot;https://chengjun.github.io/zh/images/member/yangdong.png&amp;quot; class=&amp;quot;author__avatar&amp;quot; alt=&amp;quot;Yangdong Liu&amp;quot;&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;author__content&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href = &amp;quot;https://yangdong-liu.github.io/&amp;quot;&amp;gt;Yangdong Liu&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;(2023 - )&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/center&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code>&lt;/pre>
+&lt;div class="column">
+&lt;center>
+&lt;div class="author__avatar">
+&lt;img src="https://chengjun.github.io/zh/images/member/xiaoxiao.jpg" class="author__avatar" alt="Xiao Xiao">
+&lt;/div>
+&lt;div class="author__content">
+&lt;p>&lt;a href = "https://Xiaoxiao-tiger.github.io/">Xiao Xiao&lt;/a>&lt;br/>(2024 - )&lt;/p>
+&lt;/div>
+&lt;/center>
+&lt;/div>
+&lt;div class="column">
+&lt;center>
+&lt;div class="author__avatar">
+&lt;img src="https://chengjun.github.io/zh/images/member/yangdong.png" class="author__avatar" alt="Yangdong Liu">
+&lt;/div>
+&lt;div class="author__content">
+&lt;p>&lt;a href = "https://yangdong-liu.github.io/">Yangdong Liu&lt;/a>&lt;br/>(2023 - )&lt;/p>
+&lt;/div>
+&lt;/center>
+&lt;/div>
 &lt;/div>
 &lt;div class="row">
 &lt;div class="column">
@@ -382,27 +381,26 @@ Professor
 &lt;/div>
 &lt;/center>
 &lt;/div>
-&lt;pre>&lt;code>&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
-&amp;lt;center&amp;gt;
-&amp;lt;div class=&amp;quot;author__avatar&amp;quot;&amp;gt;
-&amp;lt;img src=&amp;quot;https://chengjun.github.io/zh/images/member/lihanyan.jpg&amp;quot; class=&amp;quot;author__avatar&amp;quot; alt=&amp;quot;Lihan Yan&amp;quot;&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;author__content&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href = &amp;quot;https://yan-lihan.github.io/&amp;quot;&amp;gt;Lihan Yan&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;(2022 - )&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/center&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
-&amp;lt;center&amp;gt;
-&amp;lt;div class=&amp;quot;author__avatar&amp;quot;&amp;gt;
-&amp;lt;img src=&amp;quot;https://chengjun.github.io/zh/images/member/xuefeiyan.jpg&amp;quot; class=&amp;quot;author__avatar&amp;quot; alt=&amp;quot;Xuefei Yan&amp;quot;&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class=&amp;quot;author__content&amp;quot;&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://xuefei-yan.github.io/&amp;quot;&amp;gt;Xuefei Yan&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;(2022 - )&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;/center&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code>&lt;/pre>
+&lt;div class="column">
+&lt;center>
+&lt;div class="author__avatar">
+&lt;img src="https://chengjun.github.io/zh/images/member/lihanyan.jpg" class="author__avatar" alt="Lihan Yan">
+&lt;/div>
+&lt;div class="author__content">
+&lt;p>&lt;a href = "https://yan-lihan.github.io/">Lihan Yan&lt;/a>&lt;br/>(2022 - )&lt;/p>
+&lt;/div>
+&lt;/center>
+&lt;/div>
+&lt;div class="column">
+&lt;center>
+&lt;div class="author__avatar">
+&lt;img src="https://chengjun.github.io/zh/images/member/xuefeiyan.jpg" class="author__avatar" alt="Xuefei Yan">
+&lt;/div>
+&lt;div class="author__content">
+&lt;p>&lt;a href="https://xuefei-yan.github.io/">Xuefei Yan&lt;/a>&lt;br/>(2022 - )&lt;/p>
+&lt;/div>
+&lt;/center>
+&lt;/div>
 &lt;/div>
 &lt;/table>
 &lt;h3 id="master-students">Master Students&lt;/h3>
