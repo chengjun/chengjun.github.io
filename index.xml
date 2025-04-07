@@ -337,40 +337,72 @@ Professor
 &lt;/tr>
 &lt;/table>
 &lt;h3 id="phd-students">Ph.D. Students&lt;/h3>
-&lt;table style="table-layout: auto; width: 400px">
-&lt;tr>
-&lt;td style="text-align: center; vertical-align: middle; padding:10px">
-&lt;div>
-&lt;img src="https://user-images.githubusercontent.com/13479560/199401758-496be7c9-2afd-4fd2-8b83-c1ac64da1895.jpg" width = 200px height = 200px>&lt;br>
-&lt;a href="https://xuefei-yan.github.io/">Xuefei Yan&lt;/a>&lt;br>
-(2022 - )
+&lt;div class="row">
+&lt;div class="column">
+&lt;center>
+&lt;div class="author__avatar">
+&lt;img src="https://github.com/user-attachments/assets/c9b5e011-ff8a-4beb-ae06-28a64a310e0e" class="author__avatar" alt="Cai He">
 &lt;/div>
-&lt;/td>
-&lt;td style="text-align: center; vertical-align: middle; padding:10px">
-&lt;div>
-&lt;img src="https://user-images.githubusercontent.com/13479560/199376455-10d0082f-fec2-44a0-853f-20d637194473.jpg" width = 200px height = 200px>&lt;br>
-&lt;a href="https://yan-lihan.github.io/">Lihan Yan&lt;/a>&lt;br>
-(2022 - )
+&lt;div class="author__content">
+&lt;p>&lt;a href = "https://caihe1025.github.io/">Cai He&lt;/a>&lt;br/>(2025 - )&lt;/p>
 &lt;/div>
-&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: center; vertical-align: middle; padding:10px">
-&lt;div>
-&lt;img src="https://yangdong-liu.github.io/assets/img/prof_pic.jpg" width = 200px height = 200px>&lt;br>
-&lt;a href="https://yangdong-liu.github.io/">Yangdong Liu&lt;/a>&lt;br>
-(2023 - )
+&lt;/center>
 &lt;/div>
-&lt;/td>
-&lt;td style="text-align: center; vertical-align: middle; padding:10px">
-&lt;div>
-&lt;img src="https://user-images.githubusercontent.com/13479560/199375692-6f002149-9cf5-46b0-b266-340f6adeb5c9.jpg" width = 200px height = 200px>&lt;br>
-&lt;a href="https://yaotianzhang.github.io/">Yaotian Zhang&lt;/a>&lt;br>
-(2023 - )
+&lt;pre>&lt;code>&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
+&amp;lt;center&amp;gt;
+&amp;lt;div class=&amp;quot;author__avatar&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;/zh/images/member/xiaoxiao.jpg&amp;quot; class=&amp;quot;author__avatar&amp;quot; alt=&amp;quot;Xiao Xiao&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;author__content&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href = &amp;quot;https://Xiaoxiao-tiger.github.io/&amp;quot;&amp;gt;Xiao Xiao&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;(2024 - )&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/center&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
+&amp;lt;center&amp;gt;
+&amp;lt;div class=&amp;quot;author__avatar&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;/zh/images/member/yangdong.png&amp;quot; class=&amp;quot;author__avatar&amp;quot; alt=&amp;quot;Yangdong Liu&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;author__content&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href = &amp;quot;https://yangdong-liu.github.io/&amp;quot;&amp;gt;Yangdong Liu&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;(2023 - )&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/center&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code>&lt;/pre>
 &lt;/div>
-&lt;/td>
-&lt;/tr>
-&lt;/table>
+&lt;div class="row">
+&lt;div class="column">
+&lt;center>
+&lt;div class="author__avatar">
+&lt;img src="https://chengjun.github.io/zh/images/member/yaotianzhang.jpg" class="author__avatar" alt="Yaotian Zhang">
+&lt;/div>
+&lt;div class="author__content">
+&lt;p>&lt;a href = "https://yaotianzhang.github.io/">Yaotian Zhang&lt;/a>&lt;br/>(2023 - )&lt;/p>
+&lt;/div>
+&lt;/center>
+&lt;/div>
+&lt;pre>&lt;code>&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
+&amp;lt;center&amp;gt;
+&amp;lt;div class=&amp;quot;author__avatar&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;/zh/images/member/lihanyan.jpg&amp;quot; class=&amp;quot;author__avatar&amp;quot; alt=&amp;quot;Lihan Yan&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;author__content&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href = &amp;quot;https://yan-lihan.github.io/&amp;quot;&amp;gt;Lihan Yan&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;(2022 - )&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/center&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
+&amp;lt;center&amp;gt;
+&amp;lt;div class=&amp;quot;author__avatar&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;/zh/images/member/xuefeiyan.jpg&amp;quot; class=&amp;quot;author__avatar&amp;quot; alt=&amp;quot;Xuefei Yan&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;author__content&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://xuefei-yan.github.io/&amp;quot;&amp;gt;Xuefei Yan&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;(2022 - )&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/center&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/div>
 &lt;h3 id="master-students">Master Students&lt;/h3>
 &lt;ul>
 &lt;li>Yixiao Sun (2022 - ) &lt;a href="https://sun-yixiao.github.io/" target="_blank" rel="noopener">https://sun-yixiao.github.io/&lt;/a>&lt;/li>
