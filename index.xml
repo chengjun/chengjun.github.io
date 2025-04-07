@@ -337,6 +337,7 @@ Professor
 &lt;/tr>
 &lt;/table>
 &lt;h3 id="phd-students">Ph.D. Students&lt;/h3>
+&lt;table style="table-layout: auto; width: 800px">
 &lt;div class="row">
 &lt;div class="column">
 &lt;center>
@@ -403,6 +404,7 @@ Professor
 &amp;lt;/div&amp;gt;
 &lt;/code>&lt;/pre>
 &lt;/div>
+&lt;/table>
 &lt;h3 id="master-students">Master Students&lt;/h3>
 &lt;ul>
 &lt;li>Yixiao Sun (2022 - ) &lt;a href="https://sun-yixiao.github.io/" target="_blank" rel="noopener">https://sun-yixiao.github.io/&lt;/a>&lt;/li>
